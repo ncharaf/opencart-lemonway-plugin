@@ -30,11 +30,11 @@ $_['button_express_login']    = 'Continue to LemonWay';
 $_['button_express_shipping'] = 'Update shipping';
 
 // Error
-$_['error_heading_title']	  = 'There was an error';
+$_['error_heading_title']	    = 'There was an error';
 $_['error_too_many_failures'] = 'Your payment has failed too many times';
 $_['error_param']             = 'LemonWay:Param missing';
 $_['error_card_not_found']    = 'LemonWay:Cart not found';
-$_['error_cancel']             = 'Order cancel by customer';
+$_['error_cancel']            = 'Order cancel by customer';
 
 
 
